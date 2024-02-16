@@ -1,6 +1,5 @@
 package org.exercise3.importer;
 
-import org.aspectj.util.FileUtil;
 import org.exercise3.model.CarRegistration;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
